@@ -645,22 +645,23 @@
                                         </div >
                                         <img class="qrcode" src="../../../static/images/gooddetail/qrcode.png">
                                     </div><!--scan 结束-->
-                                    <a class="goods-name-a" target="_blank" title="Adidas/阿迪达斯"
+                                    <a class="goods-name-a" target="_blank" title="{{temp['name']}}"
                                        href="#">
                                         <h1 id="goods-name">{{temp['name']}}</h1>
                                     </a><!--goods-name-a end-->
-                                    <div class="goods-tit">Superstar Shoes</div>
+                                    <div class="goods-tit">EnlingName</div>
                                     <span id="prom-text">官网直购，实时同价</span>
                                 </div><!--row1 end-->
 
                                 <div class = "row2"id="freetax" style="height:auto;">
                                     <dl>
-                                        <dd style="margin-right: 10px;"><span id="real-price"><i content="CNY">¥</i>353</span></dd>
+                                        <dd style="margin-right: 10px;">
+
+                                            {%set realPrice = ((temp['skus'][0])['realPrice'])%}
+                                            <span id="real-price"><i content="CNY">¥</i>{{format(float(realPrice)/100.0,'.2f')}}</span></dd>
                                         <dt id="prom-div">官网售价</dt>
                                         <dd>
-                                            <div class="org-price">
-                                                $49 (<em>$70</em>)
-                                            </div>
+                                            <div class="org-price">  {{(temp['skus'][0])['mallPrice']}}</div>
                                             <div class="discount j_discount">
                                                 <em>7折</em>
                                             </div>
@@ -773,7 +774,7 @@
                                 <div class="row5">
                                     <a class="buy j_add_cart" style="display: block;">加入购物车</a>
                                     <a class="no-goods" style="display: none;">暂时缺货</a>
-                                    <a id="offical-site" target="_blank" href="#" style="display: block;">立即购买</a>
+                                    <a id="offical-site" class="buy j_add_cart"target="_blank" href="#" style="display: block;">立即购买</a>
                                 </div><!--row5 end-->
                                 <!--<div class="row6">提示：由于魅加商城的商品的特殊性，本商品不支持无理由退换</div>-->
                                 <!---->
