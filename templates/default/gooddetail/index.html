@@ -1,0 +1,1086 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>商品详情{{gooddetail.w}}</title>
+    <link rel="stylesheet" href="../../../static/css/bases/rest.css">
+    <link rel="stylesheet" href="../../../static/css/bases/base.css">
+    <link rel="stylesheet" href="../../../static/css/bases/common.css">
+    <link rel="stylesheet" href="../../../static/css/hearder/hearder.css">
+
+    <link rel="stylesheet" href="../../../static/css/common/common.css">
+    <link rel="stylesheet" href="../../../static/css/footer/footer.css">
+    <link rel="stylesheet" href="../../../static/css/gooddetail/gooddetail.css">
+</head>
+<body>
+
+
+<!--<iframe class="iframecontent" frameborder=0 width="100%" height="100%" src="../header/index.html"
+        style="min-width: 1200px;clear: both;"></iframe>-->
+
+<iframe class="iframecontent" frameborder=0 width="100%" scrolling="no" src="../header/index.html"
+        style="min-width: 1200px;min-height: 249px;"></iframe>
+<div id="nTalk_post_hiddenElement" style="left: -10px; top: -10px; visibility: hidden; display: none; width: 1px; height: 1px;"></div>
+<!--中间的内容开始-->
+{%set data = gooddetail.data%}
+{%for temp in data %}
+    <div class="clearfix out-wrap ">
+        <div class="specify">
+            <div class="navs clearfix">
+                <div class="all-in" id="allIn">
+                    <span class="icon icon-func"></span>全部商品分类
+                    <span class="icon icon-fold"></span>
+                    <!--商品二级菜单-->
+                    <div class="clearfix cates-banner " id="banner" >
+                        <ul class="abso cates" id="cates">
+                            <li class="cate">
+                                <div class="white"></div>
+                                <div class="clearfix cate-hd ">
+                                    <span class="icon icon-cloth"></span>
+                                    <a target="_blank" href="#">服饰</a>
+                                </div>
+                                <ul class="clearfix cate-bd">
+                                    <li>
+                                        <a href="#" target="_blank">男装T恤</a>
+                                        <a class="slash">/</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" target="_blank">女装</a>
+                                        <a class="slash">/</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" target="_blank">运动服饰</a>
+                                    </li>
+                                </ul>
+                                <!--移动到这上面才会显示-->
+                                <div class="abso hover-boxs">
+                                    <div class="hover-box" style="width: 100%;">
+                                        <div class="cates-box fl">
+                                            <div class="part">
+                                                <div class="title">女装</div>
+                                                <div class="list" style="margin-top: 14px;">
+                                                    <a href="#" class="hot">T恤</a>
+                                                    <a href="#" class="hot">睡衣</a>
+                                                    <a href="#" class="hot">内衣</a>
+                                                    <a href="#" class="hot">卫衣/连帽衫</a>
+                                                    <a href="#" class="hot">大衣/风衣</a>
+                                                    <a href="#" class="hot">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#" class="hot">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#" class="hot">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#" class="hot">大衣/风衣</a>
+                                                </div>
+
+                                            </div>
+                                            <div class="part" style="margin-left: 72px">
+                                                <div class="title">男装</div>
+                                                <div class="list" style="margin-top: 14px;">
+                                                    <a href="#" class="hot">T恤</a>
+                                                    <a href="#" class="hot">睡衣</a>
+                                                    <a href="#" class="hot">内衣</a>
+                                                    <a href="#" class="hot">卫衣/连帽衫</a>
+                                                    <a href="#" class="hot">大衣/风衣</a>
+                                                    <a href="#" class="hot">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#" class="hot">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#" class="hot">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#" class="hot">大衣/风衣</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="brands-box fr">
+                                            <div class="part">
+                                                <div class="title">热卖大牌</div>
+                                                <div class="list" style="margin-top: 14px;">
+                                                    <a target="_blank" href="#"
+                                                       style="background-image: url('../../images/firstpage/Ralph_lauren.jpg');"
+                                                       title="Ralph Lauren"></a>
+                                                    <a target="_blank" href="#"
+                                                       style="background-image: url('../../images/firstpage/Ralph_lauren.jpg');"
+                                                       title="Ralph Lauren"></a>
+                                                    <a target="_blank" href="#"
+                                                       style="background-image: url('../../images/firstpage/Ralph_lauren.jpg');"
+                                                       title="Ralph Lauren"></a>
+                                                    <a target="_blank" href="#"
+                                                       style="background-image: url('../../images/firstpage/Ralph_lauren.jpg');"
+                                                       title="Ralph Lauren"></a>
+                                                    <a target="_blank" href="#"
+                                                       style="background-image: url('../../images/firstpage/Ralph_lauren.jpg');"
+                                                       title="Ralph Lauren"></a>
+                                                    <a target="_blank" href="#"
+                                                       style="background-image: url('../../images/firstpage/Ralph_lauren.jpg');"
+                                                       title="Ralph Lauren"></a>
+                                                    <a target="_blank" href="#"
+                                                       style="background-image: url('../../images/firstpage/Ralph_lauren.jpg');"
+                                                       title="Ralph Lauren"></a>
+                                                    <a target="_blank" href="#"
+                                                       style="background-image: url('../../images/firstpage/Ralph_lauren.jpg');"
+                                                       title="Ralph Lauren"></a>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div><!--hover-boxs end-->
+                            </li>
+                            <li class="cate">
+                                <div class="white"></div>
+                                <div class="clearfix cate-hd ">
+                                    <span class="icon icon-shoe"></span>
+                                    <a target="_blank" href="#">鞋靴</a>
+                                </div>
+                                <ul class="clearfix cate-bd">
+                                    <li>
+                                        <a href="#" target="_blank">靴</a>
+                                        <a class="slash">/</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" target="_blank">高跟鞋</a>
+                                        <a class="slash">/</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" target="_blank">运动鞋</a>
+                                    </li>
+                                </ul>
+                                <!--移动到这上面才会显示-->
+                                <div class="abso hover-boxs">
+                                    <div class="hover-box" style="width: 100%;">
+                                        <div class="cates-box fl">
+                                            <div class="part">
+                                                <div class="title">女鞋</div>
+                                                <div class="list" style="margin-top: 14px;">
+                                                    <a href="#" class="hot">T恤</a>
+                                                    <a href="#" class="hot">睡衣</a>
+                                                    <a href="#" class="hot">内衣</a>
+                                                    <a href="#" class="hot">卫衣/连帽衫</a>
+                                                    <a href="#" class="hot">大衣/风衣</a>
+                                                    <a href="#" class="hot">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#" class="hot">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#" class="hot">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#" class="hot">大衣/风衣</a>
+                                                </div>
+
+                                            </div>
+                                            <div class="part" style="margin-left: 72px">
+                                                <div class="title">男鞋</div>
+                                                <div class="list" style="margin-top: 14px;">
+                                                    <a href="#" class="hot">T恤</a>
+                                                    <a href="#" class="hot">睡衣</a>
+                                                    <a href="#" class="hot">内衣</a>
+                                                    <a href="#" class="hot">卫衣/连帽衫</a>
+                                                    <a href="#" class="hot">大衣/风衣</a>
+                                                    <a href="#" class="hot">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#" class="hot">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#" class="hot">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#" class="hot">大衣/风衣</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="brands-box fr">
+                                            <div class="part">
+                                                <div class="title">热卖大牌</div>
+                                                <div class="list" style="margin-top: 14px;">
+                                                    <a target="_blank" href="#"
+                                                       style="background-image: url('../../images/firstpage/Ralph_lauren.jpg');"
+                                                       title="Ralph Lauren"></a>
+                                                    <a target="_blank" href="#"
+                                                       style="background-image: url('../../images/firstpage/Ralph_lauren.jpg');"
+                                                       title="Ralph Lauren"></a>
+                                                    <a target="_blank" href="#"
+                                                       style="background-image: url('../../images/firstpage/Ralph_lauren.jpg');"
+                                                       title="Ralph Lauren"></a>
+                                                    <a target="_blank" href="#"
+                                                       style="background-image: url('../../images/firstpage/Ralph_lauren.jpg');"
+                                                       title="Ralph Lauren"></a>
+                                                    <a target="_blank" href="#"
+                                                       style="background-image: url('../../images/firstpage/Ralph_lauren.jpg');"
+                                                       title="Ralph Lauren"></a>
+                                                    <a target="_blank" href="#"
+                                                       style="background-image: url('../../images/firstpage/Ralph_lauren.jpg');"
+                                                       title="Ralph Lauren"></a>
+                                                    <a target="_blank" href="#"
+                                                       style="background-image: url('../../images/firstpage/Ralph_lauren.jpg');"
+                                                       title="Ralph Lauren"></a>
+                                                    <a target="_blank" href="#"
+                                                       style="background-image: url('../../images/firstpage/Ralph_lauren.jpg');"
+                                                       title="Ralph Lauren"></a>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div><!--hover-boxs end-->
+                            </li>
+                            <li class="cate">
+                                <div class="white"></div>
+                                <div class="clearfix cate-hd ">
+                                    <span class="icon icon-bag"></span>
+                                    <a target="_blank" href="#">包袋</a>
+                                </div>
+                                <ul class="clearfix cate-bd">
+                                    <li>
+                                        <a href="#" target="_blank">女包</a>
+                                        <a class="slash">/</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" target="_blank">男包</a>
+                                        <a class="slash">/</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" target="_blank">箱包</a>
+                                    </li>
+                                </ul>
+                                <!--移动到这上面才会显示-->
+                                <div class="abso hover-boxs">
+                                    <div class="hover-box" style="width: 100%;">
+                                        <div class="cates-box fl">
+                                            <div class="part">
+                                                <div class="title">女包</div>
+                                                <div class="list" style="margin-top: 14px;">
+                                                    <a href="#" class="hot">T恤</a>
+                                                    <a href="#" class="hot">睡衣</a>
+                                                    <a href="#" class="hot">内衣</a>
+                                                    <a href="#" class="hot">卫衣/连帽衫</a>
+                                                    <a href="#" class="hot">大衣/风衣</a>
+                                                    <a href="#" class="hot">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#" class="hot">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#" class="hot">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#" class="hot">大衣/风衣</a>
+                                                </div>
+
+                                            </div>
+                                            <div class="part" style="margin-left: 72px">
+                                                <div class="title">男包</div>
+                                                <div class="list" style="margin-top: 14px;">
+                                                    <a href="#" class="hot">T恤</a>
+                                                    <a href="#" class="hot">睡衣</a>
+                                                    <a href="#" class="hot">内衣</a>
+                                                    <a href="#" class="hot">卫衣/连帽衫</a>
+                                                    <a href="#" class="hot">大衣/风衣</a>
+                                                    <a href="#" class="hot">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#" class="hot">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#" class="hot">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#" class="hot">大衣/风衣</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="brands-box fr">
+                                            <div class="part">
+                                                <div class="title">热卖大牌</div>
+                                                <div class="list" style="margin-top: 14px;">
+                                                    <a target="_blank" href="#"
+                                                       style="background-image: url('../../images/firstpage/Ralph_lauren.jpg');"
+                                                       title="Ralph Lauren"></a>
+                                                    <a target="_blank" href="#"
+                                                       style="background-image: url('../../images/firstpage/Ralph_lauren.jpg');"
+                                                       title="Ralph Lauren"></a>
+                                                    <a target="_blank" href="#"
+                                                       style="background-image: url('../../images/firstpage/Ralph_lauren.jpg');"
+                                                       title="Ralph Lauren"></a>
+                                                    <a target="_blank" href="#"
+                                                       style="background-image: url('../../images/firstpage/Ralph_lauren.jpg');"
+                                                       title="Ralph Lauren"></a>
+                                                    <a target="_blank" href="#"
+                                                       style="background-image: url('../../images/firstpage/Ralph_lauren.jpg');"
+                                                       title="Ralph Lauren"></a>
+                                                    <a target="_blank" href="#"
+                                                       style="background-image: url('../../images/firstpage/Ralph_lauren.jpg');"
+                                                       title="Ralph Lauren"></a>
+                                                    <a target="_blank" href="#"
+                                                       style="background-image: url('../../images/firstpage/Ralph_lauren.jpg');"
+                                                       title="Ralph Lauren"></a>
+                                                    <a target="_blank" href="#"
+                                                       style="background-image: url('../../images/firstpage/Ralph_lauren.jpg');"
+                                                       title="Ralph Lauren"></a>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div><!--hover-boxs end-->
+                            </li>
+                            <li class="cate">
+                                <div class="white"></div>
+                                <div class="clearfix cate-hd ">
+                                    <span class="icon icon-lip"></span>
+                                    <a target="_blank" href="#">护肤美装</a>
+                                </div>
+                                <ul class="clearfix cate-bd">
+                                    <li>
+                                        <a href="#" target="_blank">眼霜</a>
+                                        <a class="slash">/</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" target="_blank">精华</a>
+                                        <a class="slash">/</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" target="_blank">防晒霜</a>
+                                    </li>
+                                </ul>
+                                <!--移动到这上面才会显示-->
+                                <div class="abso hover-boxs">
+                                    <div class="hover-box" style="width: 100%;">
+                                        <div class="cates-box fl">
+                                            <div class="part">
+                                                <div class="title">美妆</div>
+                                                <div class="list" style="margin-top: 14px;">
+                                                    <a href="#" class="hot">T恤</a>
+                                                    <a href="#" class="hot">睡衣</a>
+                                                    <a href="#" class="hot">内衣</a>
+                                                    <a href="#" class="hot">卫衣/连帽衫</a>
+                                                    <a href="#" class="hot">大衣/风衣</a>
+                                                    <a href="#" class="hot">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#" class="hot">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#" class="hot">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#" class="hot">大衣/风衣</a>
+                                                </div>
+
+                                            </div>
+                                            <div class="part" style="margin-left: 72px">
+                                                <div class="title">身体护理</div>
+                                                <div class="list" style="margin-top: 14px;">
+                                                    <a href="#" class="hot">T恤</a>
+                                                    <a href="#" class="hot">睡衣</a>
+                                                    <a href="#" class="hot">内衣</a>
+                                                    <a href="#" class="hot">卫衣/连帽衫</a>
+                                                    <a href="#" class="hot">大衣/风衣</a>
+                                                    <a href="#" class="hot">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#" class="hot">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#" class="hot">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#" class="hot">大衣/风衣</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="brands-box fr">
+                                            <div class="part">
+                                                <div class="title">热卖大牌</div>
+                                                <div class="list" style="margin-top: 14px;">
+                                                    <a target="_blank" href="#"
+                                                       style="background-image: url('../../images/firstpage/Ralph_lauren.jpg');"
+                                                       title="Ralph Lauren"></a>
+                                                    <a target="_blank" href="#"
+                                                       style="background-image: url('../../images/firstpage/Ralph_lauren.jpg');"
+                                                       title="Ralph Lauren"></a>
+                                                    <a target="_blank" href="#"
+                                                       style="background-image: url('../../images/firstpage/Ralph_lauren.jpg');"
+                                                       title="Ralph Lauren"></a>
+                                                    <a target="_blank" href="#"
+                                                       style="background-image: url('../../images/firstpage/Ralph_lauren.jpg');"
+                                                       title="Ralph Lauren"></a>
+                                                    <a target="_blank" href="#"
+                                                       style="background-image: url('../../images/firstpage/Ralph_lauren.jpg');"
+                                                       title="Ralph Lauren"></a>
+                                                    <a target="_blank" href="#"
+                                                       style="background-image: url('../../images/firstpage/Ralph_lauren.jpg');"
+                                                       title="Ralph Lauren"></a>
+                                                    <a target="_blank" href="#"
+                                                       style="background-image: url('../../images/firstpage/Ralph_lauren.jpg');"
+                                                       title="Ralph Lauren"></a>
+                                                    <a target="_blank" href="#"
+                                                       style="background-image: url('../../images/firstpage/Ralph_lauren.jpg');"
+                                                       title="Ralph Lauren"></a>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div><!--hover-boxs end-->
+                            </li>
+                            <li class=" clearfix cate b-bottom0">
+                                <div class="white"></div>
+                                <div class="clearfix cate-hd ">
+                                    <span class="icon icon-watch"></span>
+                                    <a target="_blank" href="#">手表配饰</a>
+                                </div>
+                                <ul class="clearfix cate-bd">
+                                    <li>
+                                        <a href="#" target="_blank">男表</a>
+                                        <a class="slash">/</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" target="_blank">女表</a>
+                                        <a class="slash">/</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" target="_blank">首饰配件</a>
+                                    </li>
+                                </ul>
+                                <!--移动到这上面才会显示-->
+                                <div class="abso hover-boxs">
+                                    <div class="hover-box" style="width: 100%;">
+                                        <div class="cates-box fl">
+                                            <div class="part">
+                                                <div class="title">男表</div>
+                                                <div class="list" style="margin-top: 14px;">
+                                                    <a href="#" class="hot">T恤</a>
+                                                    <a href="#" class="hot">睡衣</a>
+                                                    <a href="#" class="hot">内衣</a>
+                                                    <a href="#" class="hot">卫衣/连帽衫</a>
+                                                    <a href="#" class="hot">大衣/风衣</a>
+                                                    <a href="#" class="hot">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#" class="hot">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#" class="hot">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#" class="hot">大衣/风衣</a>
+                                                </div>
+
+                                            </div>
+                                            <div class="part" style="margin-left: 72px">
+                                                <div class="title">女表</div>
+                                                <div class="list" style="margin-top: 14px;">
+                                                    <a href="#" class="hot">T恤</a>
+                                                    <a href="#" class="hot">睡衣</a>
+                                                    <a href="#" class="hot">内衣</a>
+                                                    <a href="#" class="hot">卫衣/连帽衫</a>
+                                                    <a href="#" class="hot">大衣/风衣</a>
+                                                    <a href="#" class="hot">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#" class="hot">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#" class="hot">大衣/风衣</a>
+                                                    <a href="#">大衣/风衣</a>
+                                                    <a href="#" class="hot">大衣/风衣</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="brands-box fr">
+                                            <div class="part">
+                                                <div class="title">热卖大牌</div>
+                                                <div class="list" style="margin-top: 14px;">
+                                                    <a target="_blank" href="#"
+                                                       style="background-image: url('../../images/firstpage/Ralph_lauren.jpg');"
+                                                       title="Ralph Lauren"></a>
+                                                    <a target="_blank" href="#"
+                                                       style="background-image: url('../../images/firstpage/Ralph_lauren.jpg');"
+                                                       title="Ralph Lauren"></a>
+                                                    <a target="_blank" href="#"
+                                                       style="background-image: url('../../images/firstpage/Ralph_lauren.jpg');"
+                                                       title="Ralph Lauren"></a>
+                                                    <a target="_blank" href="#"
+                                                       style="background-image: url('../../images/firstpage/Ralph_lauren.jpg');"
+                                                       title="Ralph Lauren"></a>
+                                                    <a target="_blank" href="#"
+                                                       style="background-image: url('../../images/firstpage/Ralph_lauren.jpg');"
+                                                       title="Ralph Lauren"></a>
+                                                    <a target="_blank" href="#"
+                                                       style="background-image: url('../../images/firstpage/Ralph_lauren.jpg');"
+                                                       title="Ralph Lauren"></a>
+                                                    <a target="_blank" href="#"
+                                                       style="background-image: url('../../images/firstpage/Ralph_lauren.jpg');"
+                                                       title="Ralph Lauren"></a>
+                                                    <a target="_blank" href="#"
+                                                       style="background-image: url('../../images/firstpage/Ralph_lauren.jpg');"
+                                                       title="Ralph Lauren"></a>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div><!--hover-boxs end-->
+                            </li>
+                        </ul><!--abso cates-->
+                        <!--adso banner-->
+                    </div><!--cates-banner -->
+                </div><!--all-in end-->
+                <a href="#" class="link ">
+                    首页
+                </a>
+                <a href="#" class="link active">
+                    商品搜索
+                </a>
+                <a href="#" class="link ">
+                    官网大促
+                </a>
+                <!-- <a href="#" class="link ">
+                     商家
+                 </a>-->
+                <a href="#" class="link ">
+                    品牌
+                </a>
+                <!--<a href="#" class="link ">
+                    一键购
+                </a>-->
+            </div><!--navs end-->
+
+        </div><!--specify end-->
+
+
+
+        <div class="clearfix part-3  bg-f5-to-f0">
+            <div id="content">
+                <div class="js-crumbs j_content clearfix">
+
+                    <a href="#" target="_blank"> 商城首页</a>
+                    <i>&gt;</i>
+                    <a href="#" target="_blank">{{'>'.join(temp['category_list'])}}</a>
+
+                </div><!--js-crumbs end -->
+                <div class="sample-content j_content">
+                        <div class="sample-img">
+                            <div style="padding: 20px 5px; height: 425px; overflow: hidden">
+                                <div id="img-show" class="gallery-show"
+                                     style="background-image: url({{temp['coverimgs'][0]}});
+                                width: 450px; height: 420px;">
+                                </div>
+                            </div>
+                            <div class="gallery-thumb">
+                                <div class="gallery-thumb-wrapper" id="list_small_img">
+                                    <ul style="width: 800px;left: 0px;">
+                                        {%for index,item in enumerate(temp['coverimgs']) %}
+                                            <li data-index = {{index}}>
+                                                <a href="javascript:;"><img
+                                                    src="{{item}}"
+                                                    style="margin: auto; width: auto; height: 86px;">
+                                                </a>
+                                            </li>
+                                        {% end %}
+                                    </ul>
+                                </div><!--gallery-thumb-wrapper end-->
+                                <a id="wrapper-prev" class="prev prev-disabled" href="javascript:"><i></i></a>
+                                <a id="wrapper-next" class="next" href="javascript:"><i></i></a>
+                            </div><!--gallery-thumb end-->
+                        </div><!--sample-img end-->
+
+                        <div class="good-info" >
+                            <div class="xbase" >
+                                <div class="row1" style="position: relative;">
+                                    <div class="scan">
+                                        <div class="text">
+                                            <b>扫一扫</b>关注微信公众号
+                                        </div >
+                                        <img class="qrcode" src="../../../static/images/gooddetail/qrcode.png">
+                                    </div><!--scan 结束-->
+                                    <a class="goods-name-a" target="_blank" title="Adidas/阿迪达斯"
+                                       href="#">
+                                        <h1 id="goods-name">{{temp['name']}}</h1>
+                                    </a><!--goods-name-a end-->
+                                    <div class="goods-tit">Superstar Shoes</div>
+                                    <span id="prom-text">官网直购，实时同价</span>
+                                </div><!--row1 end-->
+
+                                <div class = "row2"id="freetax" style="height:auto;">
+                                    <dl>
+                                        <dd style="margin-right: 10px;"><span id="real-price"><i content="CNY">¥</i>353</span></dd>
+                                        <dt id="prom-div">官网售价</dt>
+                                        <dd>
+                                            <div class="org-price">
+                                                $49 (<em>$70</em>)
+                                            </div>
+                                            <div class="discount j_discount">
+                                                <em>7折</em>
+                                            </div>
+                                        </dd>
+                                    </dl><!--dl 1 end-->
+                                    <dl class="promption">
+                                        <dt>
+                                            <div class="promption__tag">优惠券</div>限时使用优惠券
+                                            <span class="promption__btn">立即领取</span>
+                                        </dt>
+                                    </dl><!--promption end-->
+
+                                </div><!--row2 end-->
+                                <div class="row3">
+                                    <div class="base-info">
+                                        <ul>
+                                            <li>
+                                                <h2>商家</h2>
+                                                    <span id="seller"><!-- <span class="pull-left">由</span> -->
+                                                        <!--<div class="nation-flag" title="美国" style="background-image: url('../../images/gooddetail/USA.png'); width: 23px; height: 17px;">
+
+                                                        </div>
+                                                        <a class="pull-left" target="_blank" href="#">Shop Spring</a>-->
+                                                        官网发货，预计10-20个工作日内可到货
+                                                    </span>
+                                            </li>
+                                            <li>
+                                                <h2>运费</h2>
+                                                    <span id="shipMoney">官网运费 免邮<br><!--预估国际运费 ¥ 90-->
+                                                        <!--<span class="ques hTip-element" data-idx="0" data-variable="_htip">?</span>-->
+                                                    </span>
+                                            </li>
+                                            <!--<li>
+                                                <h2>关税</h2>
+                                                <span id="tariffRate">¥ 53</span>
+                                                <span class="ques hoverTip-element" data-idx="0" data-variable="_hovertip" style="top: 2px;">?</span>
+                                            </li>-->
+                                        </ul>
+                                    </div>
+                                </div><!--row3 end -->
+
+                                <div class="row4">
+                                    <ul>
+                                        <li id="style" class="block-style j_style">
+                                            <label for="Color" style="line-height: 60px;">颜色</label>
+                                            <div id="rect-select" class="rect-select" >
+                                                <a class="rect-option " data-style="Running White Ftw" title="Running White Ftw" style="width: 60px;height: 60px;">
+                                                    <b></b>
+                                                    <div class="img" alt="Running White Ftw"
+                                                         style=" background-image: url('../../images/gooddetail/good_2.jpg');width: 60px; height: 60px;">
+                                                       <!-- ;-->
+                                                    </div>
+                                                </a>
+                                                <a class="rect-option " data-style="Running White Ftw" title="Running White Ftw" style="width: 60px;height: 60px;">
+                                                          <b></b>
+                                                    <div class="img" alt="Running White Ftw"
+                                                         style=" background-image: url('../../images/gooddetail/good_2.jpg');width: 60px; height: 60px;">
+                                                        <!-- ;-->
+                                                    </div>
+                                                </a>
+                                                <a class="rect-option " data-style="Running White Ftw" title="Running White Ftw" style="width: 60px;height: 60px;">
+                                                          <b></b>
+                                                    <div class="img" alt="Running White Ftw"
+                                                         style=" background-image: url('../../images/gooddetail/good_2.jpg');width: 60px; height: 60px;">
+                                                        <!-- ;-->
+                                                    </div>
+                                                </a>
+                                                <a class="rect-option selected" data-style="Running White Ftw" title="Running White Ftw" style="width: 60px;height: 60px;">
+                                                  <b></b>
+                                                    <div class="img" alt="Running White Ftw"
+                                                         style=" background-image: url('../../images/gooddetail/good_2.jpg');width: 60px; height: 60px;">
+                                                        <!-- ;-->
+                                                    </div>
+                                                </a>
+                                            </div><!--rect-select end-->
+
+                                        </li><!--商品选择  -->
+
+                                        <li id="select" >
+                                            <label class="size j_select">尺码</label>
+                                            <div class="rect-select">
+                                                <a  class="rect-option selected" data-style="3.5" >3.5</a>
+                                                <a  class="rect-option" data-style="4.5">4.5</a>
+                                                <a  class="rect-option" data-style="5.5">5.5</a>
+                                                <a  class="rect-option" data-style="6.5">6.5</a>
+                                                <a  class="rect-option" data-style="7.5">7.5</a>
+                                                <a  class="rect-option" data-style="8.5">8.5</a>
+                                                <a  class="rect-option" data-style="8.5">8.5</a>
+                                                <div class="sizematch">尺码对照表</div>
+                                            </div>
+                                        </li><!--尺码选择-->
+
+
+                                        <li>
+                                            <label>数量</label>
+                                            <div id="numBar">
+                                                <span class="minus">-</span>
+                                                <input id="num" type="text" value="1" readonly="">
+                                                <span class="plus">+</span>
+                                                <span class="limit-count">每人限购1 件</span>
+                                            </div>
+                                        </li><!--数量选择-->
+
+                                    </ul>
+                                    <div class="stock-summary">
+
+                                    </div>
+                                </div><!--row4 end-->
+
+                                <div class="row5">
+                                    <a class="buy j_add_cart" style="display: block;">加入购物车</a>
+                                    <a class="no-goods" style="display: none;">暂时缺货</a>
+                                    <a id="offical-site" target="_blank" href="#" style="display: block;">立即购买</a>
+                                </div><!--row5 end-->
+                                <!--<div class="row6">提示：由于魅加商城的商品的特殊性，本商品不支持无理由退换</div>-->
+                                <!---->
+                            </div><!--xbase end-->
+                        </div><!--good-info end-->
+                        <div class="property-img">
+                            <div class="item">
+                                <div class="icon">
+                                    买
+                                </div>
+                                <div>
+                                    <div class="title">
+                                        拼的是手速
+                                    </div>
+                                    <span>厂家直接发货，正品您放心</span>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="icon">
+                                    买
+                                </div>
+                                <div>
+                                    <div class="title">
+                                        拼的是网速
+                                    </div>
+                                    <span>价格折扣，谁能抢更多</span>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="icon">
+                                    买
+                                </div>
+                                <div>
+                                    <div class="title">
+                                        拼的是技术
+                                    </div>
+                                    <span>全球千万酒品，一站购齐</span>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="icon">
+                                    买
+                                </div>
+                                <div>
+                                    <div class="title">
+                                        拼的是实力
+                                    </div>
+                                    <span>支付宝，微信一键下单</span>
+                                </div>
+                            </div>
+                        </div><!--property-img end-->
+                </div><!--simple-content end-->
+                <!--相关商品-->
+                <div class="relative-goods j_content clearfix" >
+                    <h2>相关商品</h2>
+                    <div class="goods-pad bg-f5-to-f0">
+                        <div class="goods-card">
+                            <div style="padding: 8px;">
+                                <div class="goods-img"   style="background-image: url('../../images/gooddetail/good_card1.jpg'); width: 232px; height: 278px;">
+
+                                </div>
+                            </div>
+                            <h3>Adidas/阿迪达斯</h3>
+                            <h4>Barricade Classic Bounce Shoes</h4>
+                            <span class="real-price">¥720</span>
+                            <div class="price-info"><span class="real">$100</span></div>
+                         <!--   <div class="line"></div>
+                            <div class="seller-info">商家：Shop Spring，美国</div>-->
+                        </div><!--goods-card end-->
+                        <div class="goods-card">
+                            <div style="padding: 8px;">
+                                <div class="goods-img"   style="background-image: url('../../images/gooddetail/good_card1.jpg'); width: 232px; height: 278px;">
+
+                                </div>
+                            </div>
+                            <h3>Adidas/阿迪达斯</h3>
+                            <h4>Barricade Classic Bounce Shoes</h4>
+                            <span class="real-price">¥720</span>
+                            <div class="price-info"><span class="real">$100</span></div>
+                            <!--   <div class="line"></div>
+                               <div class="seller-info">商家：Shop Spring，美国</div>-->
+                        </div><!--goods-card end-->
+                        <div class="goods-card">
+                            <div style="padding: 8px;">
+                                <div class="goods-img"   style="background-image: url('../../images/gooddetail/good_card1.jpg'); width: 232px; height: 278px;">
+
+                                </div>
+                            </div>
+                            <h3>Adidas/阿迪达斯</h3>
+                            <h4>Barricade Classic Bounce Shoes</h4>
+                            <span class="real-price">¥720</span>
+                            <div class="price-info"><span class="real">$100</span></div>
+                            <!--   <div class="line"></div>
+                               <div class="seller-info">商家：Shop Spring，美国</div>-->
+                        </div><!--goods-card end-->
+                        <div class="goods-card">
+                            <div style="padding: 8px;">
+                                <div class="goods-img"   style="background-image: url('../../images/gooddetail/good_card1.jpg'); width: 232px; height: 278px;">
+
+                                </div>
+                            </div>
+                            <h3>Adidas/阿迪达斯</h3>
+                            <h4>Barricade Classic Bounce Shoes</h4>
+                            <span class="real-price">¥720</span>
+                            <div class="price-info"><span class="real">$100</span></div>
+                            <!--   <div class="line"></div>
+                               <div class="seller-info">商家：Shop Spring，美国</div>-->
+                        </div><!--goods-card end-->
+                        <div class="goods-card">
+                            <div style="padding: 8px;">
+                                <div class="goods-img"   style="background-image: url('../../images/gooddetail/good_card1.jpg'); width: 232px; height: 278px;">
+
+                                </div>
+                            </div>
+                            <h3>Adidas/阿迪达斯</h3>
+                            <h4>Barricade Classic Bounce Shoes</h4>
+                            <span class="real-price">¥720</span>
+                            <div class="price-info"><span class="real">$100</span></div>
+                            <!--   <div class="line"></div>
+                               <div class="seller-info">商家：Shop Spring，美国</div>-->
+                        </div><!--goods-card end-->
+                    </div><!--goods-pad end -->
+                </div><!--relative-goods-->
+                <div class="content-description j_content">
+                    <div class="content">
+                        <ul class="content-ul">
+                            <li><a href="#">商品描述</a></li>
+                            <li><a href="#">商品图片</a></li>
+                        </ul>
+                        <div id="gwd">
+                            <div id="gwd-l" class="link"></div>
+                            <span class="title-cn">商品描述</span>
+                            <span class="title-en">Details</span>
+                            <p>A style icon is remade for younger feet in these  Originals Superstar shoes.</p>
+                        </div>
+                        <div id="gid">
+                            <div style="width: 100%;float: left;">
+                                <div id="gid-l" class="link"></div>
+                                <span class="title-cn">商品图片</span>
+                                <span class="title-en">Photos</span>
+                            </div>
+                            <div style="width:850px;margin:0 auto;overflow:hidden;">
+                                <div class="img" style="background-image: url('../../images/gooddetail/good_show_1.jpg'); width: 699px; height: 600px; margin-top: 0px;">
+
+                                </div>
+                                <div class="img" style="background-image: url('../../images/gooddetail/good_show_1.jpg'); width: 699px; height: 600px; margin-top: 0px;">
+
+                                </div>
+                                <div class="img" style="background-image: url('../../images/gooddetail/good_show_1.jpg'); width: 699px; height: 600px; margin-top: 0px;">
+
+                                </div>
+                                <div class="img" style="background-image: url('../../images/gooddetail/good_show_1.jpg'); width: 699px; height: 600px; margin-top: 0px;">
+
+                                </div>
+                                <div class="img" style="background-image: url('../../images/gooddetail/good_show_1.jpg'); width: 699px; height: 600px; margin-top: 0px;">
+
+                                </div>
+                                <div class="img" style="background-image: url('../../images/gooddetail/good_show_1.jpg'); width: 699px; height: 600px; margin-top: 0px;">
+
+                                </div>
+                                <div class="img" style="background-image: url('../../images/gooddetail/good_show_1.jpg'); width: 699px; height: 600px; margin-top: 0px;">
+
+                                </div>
+                            </div>
+                        </div>
+                    </div><!--content end-->
+                    <div class="hot-recommend">
+                        <div class="title">
+                            <div class="title">热卖推荐</div>
+                        </div>
+                        <div class="card">
+                            <div class="goods-card">
+                                <div style="padding: 0 8px">
+                                    <div class="goods-img " style="background-image: url('../../images/gooddetail/good_show_1.jpg'); width: 278px; height: 352px; margin-top: 0px;">
+
+                                    </div>
+                                </div>
+                                <h3>Adidas/阿迪达斯</h3>
+                                <h4>Alphabounce Shoes</h4>
+                                <span class="real-price">¥936</span>
+                                <div class="price-info"><span class="real">$130</span></div>
+                               <!-- <div class="line"></div>
+                                <div class="seller-info">商家：Shop Spring，美国</div>-->
+                            </div>
+                            <div class="goods-card">
+                                <div style="padding: 0 8px">
+                                    <div class="goods-img " style="background-image: url('../../images/gooddetail/good_show_1.jpg'); width: 278px; height: 352px; margin-top: 0px;">
+
+                                    </div>
+                                </div>
+                                <h3>Adidas/阿迪达斯</h3>
+                                <h4>Alphabounce Shoes</h4>
+                                <span class="real-price">¥936</span>
+                                <div class="price-info"><span class="real">$130</span></div>
+                           <!--     <div class="line"></div>
+                                <div class="seller-info">商家：Shop Spring，美国</div>-->
+                            </div>
+
+                        </div>
+
+                    </div><!--hot-recommend end-->
+                </div>
+                <div class="clearboth"></div>
+            </div><!--content end -->
+        </div><!--part-3 end-->
+
+
+    </div><!--out-wrap end-->
+{%end%}
+
+<!--版权信息代码-->
+<div class="new-footer clearfix" >
+    <div class="pop-img">
+        <div class="item">
+            <div class="icon">
+                正
+            </div>
+            <div>
+                <div class="title">
+                    正品保障
+                </div>
+                <span>厂家直接发货，100%正品</span>
+            </div>
+        </div>
+        <div class="item">
+            <div class="icon">
+                ￥
+            </div>
+            <div>
+                <div class="title">
+                    实时同价
+                </div>
+                <span>实时同步厂家价格及折扣</span>
+            </div>
+        </div>
+        <div class="item">
+            <div class="icon">
+                售
+            </div>
+            <div>
+                <div class="title">
+                    售后无忧
+                </div>
+                <span>7天无理由退货</span>
+            </div>
+        </div>
+        <div class="item">
+            <div class="icon">
+                付
+            </div>
+            <div>
+                <div class="title">
+                    一键支付
+                </div>
+                <span>支付宝，微信一键下单</span>
+            </div>
+        </div>
+    </div>
+    <ul class="links">
+        <li>
+            <div>购物导航</div>
+            <a href="#" target="_blank">全部商家</a>
+            <a href="#" target="_blank">全部品牌</a>
+        </li>
+        <li>
+            <div>HelpCenter</div>
+            <a href="#" target="_blank">购物流程</a>
+            <a href="#" target="_blank">支付方式</a>
+            <a href="#" target="_blank">常见问题</a>
+            <a href="#" target="_blank">客服中心</a>
+            <a href="#" target="_blank">购物须知</a>
+        </li>
+        <li>
+            <div>账号中心</div>
+            <a href="#" target="_blank">我的订单</a>
+            <a href="#" target="_blank">我的账号</a>
+            <a href="#" target="_blank">购物车</a>
+            <a href="#" target="_blank">客服中心</a>
+        </li>
+        <li>
+            <div>关于我们</div>
+            <a href="#" target="_blank">官网直购</a>
+            <a href="#" target="_blank">法律顾问</a>
+            <a href="#" target="_blank">常见问题</a>
+
+        </li>
+    </ul>
+
+    <div class="statement clearfix">© 2011-2017 XXXXX网络科技有限公司 备11021445号</div>
+</div>
+
+
+<a id="backTop" class="scroll-to-top-button" style="position: fixed;
+bottom: 50px; border: 1px solid rgb(51, 51, 51); z-index: 2; text-align: center; height: 46px;
+ width: 46px; font-weight: bold; margin-top: -65px; background: rgb(51, 51, 51); left: 50%;
+ margin-left: 610px; display: inline;" onclick="toTop()">
+    <div class="up-arrowww sprite-dt-arrow-backtotop-black"
+         style="text-align: center;margin: 14px auto 0;">
+    </div>
+</a>
+<script type="text/javascript" src="../../../static/js/module/js/gooddetail.js"></script>
+
+<!--<iframe class="iframecontent"  frameborder=0 width="100%" src="../footer/index.html" style="min-width: 1200px;min-height: 309px;margin-bottom: 0px;">-->
+<script>
+
+
+</script>
+
+</body>
+</html>

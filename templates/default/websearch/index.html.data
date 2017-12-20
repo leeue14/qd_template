@@ -1,0 +1,2948 @@
+{
+    "attr": [
+        {
+            "attr_name": "产地",
+            "document_count": 1341,
+            "labels": [
+                {
+                    "document_count": 272,
+                    "label": "比利时",
+                    "score": 272
+                },
+                {
+                    "document_count": 248,
+                    "label": "美国",
+                    "score": 248
+                },
+                {
+                    "document_count": 187,
+                    "label": "英国",
+                    "score": 187
+                },
+                {
+                    "document_count": 126,
+                    "label": "其他",
+                    "score": 126
+                },
+                {
+                    "document_count": 71,
+                    "label": "荷兰",
+                    "score": 71
+                },
+                {
+                    "document_count": 66,
+                    "label": "法国",
+                    "score": 66
+                },
+                {
+                    "document_count": 64,
+                    "label": "德国",
+                    "score": 64
+                },
+                {
+                    "document_count": 43,
+                    "label": "中国大陆地区",
+                    "score": 43
+                },
+                {
+                    "document_count": 39,
+                    "label": "新西兰",
+                    "score": 39
+                },
+                {
+                    "document_count": 27,
+                    "label": "澳大利亚",
+                    "score": 27
+                },
+                {
+                    "document_count": 25,
+                    "label": "意大利",
+                    "score": 25
+                },
+                {
+                    "document_count": 25,
+                    "label": "墨西哥",
+                    "score": 25
+                },
+                {
+                    "document_count": 24,
+                    "label": "日本",
+                    "score": 24
+                },
+                {
+                    "document_count": 20,
+                    "label": "苏格兰",
+                    "score": 20
+                },
+                {
+                    "document_count": 14,
+                    "label": "丹麦",
+                    "score": 14
+                },
+                {
+                    "document_count": 10,
+                    "label": "捷克",
+                    "score": 10
+                },
+                {
+                    "document_count": 10,
+                    "label": "西班牙",
+                    "score": 10
+                },
+                {
+                    "document_count": 10,
+                    "label": "瑞典",
+                    "score": 10
+                },
+                {
+                    "document_count": 9,
+                    "label": "中国大陆",
+                    "score": 9
+                },
+                {
+                    "document_count": 7,
+                    "label": "波兰",
+                    "score": 7
+                },
+                {
+                    "document_count": 5,
+                    "label": "爱尔兰",
+                    "score": 5
+                },
+                {
+                    "document_count": 4,
+                    "label": "加拿大",
+                    "score": 4
+                },
+                {
+                    "document_count": 4,
+                    "label": "拉脱维亚",
+                    "score": 4
+                },
+                {
+                    "document_count": 3,
+                    "label": "马来西亚",
+                    "score": 3
+                },
+                {
+                    "document_count": 3,
+                    "label": "老挝",
+                    "score": 3
+                },
+                {
+                    "document_count": 3,
+                    "label": "挪威",
+                    "score": 3
+                },
+                {
+                    "document_count": 2,
+                    "label": "韩国",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "立陶宛",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "智利",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "其他/other",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "古巴",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "泰国",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "波多黎各",
+                    "score": 2
+                },
+                {
+                    "document_count": 1,
+                    "label": "印度",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "俄罗斯",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "格鲁吉亚",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "芬兰",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "其他海外地区",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "葡萄牙",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "巴西",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "牙买加",
+                    "score": 1
+                }
+            ],
+            "score": 1341
+        },
+        {
+            "attr_name": "包装方式",
+            "document_count": 1340,
+            "labels": [
+                {
+                    "document_count": 1331,
+                    "label": "包装",
+                    "score": 1331
+                },
+                {
+                    "document_count": 9,
+                    "label": "散装",
+                    "score": 9
+                }
+            ],
+            "score": 1340
+        },
+        {
+            "attr_name": "品牌",
+            "document_count": 1315,
+            "labels": [
+                {
+                    "document_count": 162,
+                    "label": "other/其他",
+                    "score": 162
+                },
+                {
+                    "document_count": 28,
+                    "label": "酿酒狗",
+                    "score": 28
+                },
+                {
+                    "document_count": 24,
+                    "label": "?l/图乐",
+                    "score": 24
+                },
+                {
+                    "document_count": 24,
+                    "label": "To",
+                    "score": 24
+                },
+                {
+                    "document_count": 24,
+                    "label": "粉象",
+                    "score": 24
+                },
+                {
+                    "document_count": 24,
+                    "label": "Rogue/罗格",
+                    "score": 24
+                },
+                {
+                    "document_count": 24,
+                    "label": "BIBAMUS",
+                    "score": 24
+                },
+                {
+                    "document_count": 22,
+                    "label": "林德曼",
+                    "score": 22
+                },
+                {
+                    "document_count": 21,
+                    "label": "Bols/波士力娇酒",
+                    "score": 21
+                },
+                {
+                    "document_count": 20,
+                    "label": "智美",
+                    "score": 20
+                },
+                {
+                    "document_count": 19,
+                    "label": "Achel/阿诗",
+                    "score": 19
+                },
+                {
+                    "document_count": 17,
+                    "label": "角头鲨",
+                    "score": 17
+                },
+                {
+                    "document_count": 14,
+                    "label": "大蜥蜴",
+                    "score": 14
+                },
+                {
+                    "document_count": 13,
+                    "label": "森美尔",
+                    "score": 13
+                },
+                {
+                    "document_count": 13,
+                    "label": "宝华利（荷兰）",
+                    "score": 13
+                },
+                {
+                    "document_count": 13,
+                    "label": "乐蔓",
+                    "score": 13
+                },
+                {
+                    "document_count": 13,
+                    "label": "督威",
+                    "score": 13
+                },
+                {
+                    "document_count": 12,
+                    "label": "科胜道",
+                    "score": 12
+                },
+                {
+                    "document_count": 12,
+                    "label": "橙色炸弹",
+                    "score": 12
+                },
+                {
+                    "document_count": 12,
+                    "label": "鹅岛",
+                    "score": 12
+                },
+                {
+                    "document_count": 11,
+                    "label": "巴乐丝平",
+                    "score": 11
+                },
+                {
+                    "document_count": 11,
+                    "label": "罗斯福",
+                    "score": 11
+                },
+                {
+                    "document_count": 11,
+                    "label": "1664",
+                    "score": 11
+                },
+                {
+                    "document_count": 11,
+                    "label": "Absolut/绝对",
+                    "score": 11
+                },
+                {
+                    "document_count": 10,
+                    "label": "舒弗",
+                    "score": 10
+                },
+                {
+                    "document_count": 9,
+                    "label": "Lager/布鲁克林",
+                    "score": 9
+                },
+                {
+                    "document_count": 9,
+                    "label": "Brooklyn",
+                    "score": 9
+                },
+                {
+                    "document_count": 9,
+                    "label": "帝磨栏",
+                    "score": 9
+                },
+                {
+                    "document_count": 9,
+                    "label": "gao/高大师",
+                    "score": 9
+                },
+                {
+                    "document_count": 9,
+                    "label": "master",
+                    "score": 9
+                },
+                {
+                    "document_count": 8,
+                    "label": "凯尔特人",
+                    "score": 8
+                },
+                {
+                    "document_count": 8,
+                    "label": "马里斯",
+                    "score": 8
+                },
+                {
+                    "document_count": 8,
+                    "label": "SUNTORY/三得利",
+                    "score": 8
+                },
+                {
+                    "document_count": 8,
+                    "label": "克伦堡1664",
+                    "score": 8
+                },
+                {
+                    "document_count": 8,
+                    "label": "Glenfiddich/格兰菲迪",
+                    "score": 8
+                },
+                {
+                    "document_count": 7,
+                    "label": "BREW/熊猫精酿",
+                    "score": 7
+                },
+                {
+                    "document_count": 7,
+                    "label": "PANDA",
+                    "score": 7
+                },
+                {
+                    "document_count": 7,
+                    "label": "1号店",
+                    "score": 7
+                },
+                {
+                    "document_count": 7,
+                    "label": "雪夫",
+                    "score": 7
+                },
+                {
+                    "document_count": 7,
+                    "label": "格兰花格",
+                    "score": 7
+                },
+                {
+                    "document_count": 7,
+                    "label": "拉弗格",
+                    "score": 7
+                },
+                {
+                    "document_count": 7,
+                    "label": "百富",
+                    "score": 7
+                },
+                {
+                    "document_count": 7,
+                    "label": "Bacardi/百加得",
+                    "score": 7
+                },
+                {
+                    "document_count": 6,
+                    "label": "培恩",
+                    "score": 6
+                },
+                {
+                    "document_count": 6,
+                    "label": "内华达",
+                    "score": 6
+                },
+                {
+                    "document_count": 6,
+                    "label": "创始者",
+                    "score": 6
+                },
+                {
+                    "document_count": 6,
+                    "label": "Nevada",
+                    "score": 6
+                },
+                {
+                    "document_count": 6,
+                    "label": "Sierra",
+                    "score": 6
+                },
+                {
+                    "document_count": 6,
+                    "label": "trappe",
+                    "score": 6
+                },
+                {
+                    "document_count": 6,
+                    "label": "la",
+                    "score": 6
+                },
+                {
+                    "document_count": 6,
+                    "label": "百得福",
+                    "score": 6
+                },
+                {
+                    "document_count": 6,
+                    "label": "波摩",
+                    "score": 6
+                },
+                {
+                    "document_count": 6,
+                    "label": "达尔摩",
+                    "score": 6
+                },
+                {
+                    "document_count": 6,
+                    "label": "宾得宝",
+                    "score": 6
+                },
+                {
+                    "document_count": 6,
+                    "label": "麦卡伦",
+                    "score": 6
+                },
+                {
+                    "document_count": 6,
+                    "label": "Paulaner/保拉纳",
+                    "score": 6
+                },
+                {
+                    "document_count": 6,
+                    "label": "艾丁格",
+                    "score": 6
+                },
+                {
+                    "document_count": 5,
+                    "label": "圣路易",
+                    "score": 5
+                },
+                {
+                    "document_count": 5,
+                    "label": "鸟巢",
+                    "score": 5
+                },
+                {
+                    "document_count": 5,
+                    "label": "多瑟瑰",
+                    "score": 5
+                },
+                {
+                    "document_count": 5,
+                    "label": "Saugatuck",
+                    "score": 5
+                },
+                {
+                    "document_count": 5,
+                    "label": "白熊",
+                    "score": 5
+                },
+                {
+                    "document_count": 5,
+                    "label": "格登大龙",
+                    "score": 5
+                },
+                {
+                    "document_count": 5,
+                    "label": "REKORDERLIG/瑞可德林",
+                    "score": 5
+                },
+                {
+                    "document_count": 5,
+                    "label": "梦果",
+                    "score": 5
+                },
+                {
+                    "document_count": 5,
+                    "label": "雅伯莱",
+                    "score": 5
+                },
+                {
+                    "document_count": 5,
+                    "label": "卡斯特",
+                    "score": 5
+                },
+                {
+                    "document_count": 5,
+                    "label": "Westmalle/西麦尔",
+                    "score": 5
+                },
+                {
+                    "document_count": 5,
+                    "label": "Blue",
+                    "score": 5
+                },
+                {
+                    "document_count": 5,
+                    "label": "莱福",
+                    "score": 5
+                },
+                {
+                    "document_count": 5,
+                    "label": "Room",
+                    "score": 5
+                },
+                {
+                    "document_count": 5,
+                    "label": "Taste",
+                    "score": 5
+                },
+                {
+                    "document_count": 5,
+                    "label": "Martini/马天尼",
+                    "score": 5
+                },
+                {
+                    "document_count": 5,
+                    "label": "格兰杰",
+                    "score": 5
+                },
+                {
+                    "document_count": 5,
+                    "label": "教士",
+                    "score": 5
+                },
+                {
+                    "document_count": 5,
+                    "label": "Ballantine's/百龄坛",
+                    "score": 5
+                },
+                {
+                    "document_count": 4,
+                    "label": "Schorschbock/少士博",
+                    "score": 4
+                },
+                {
+                    "document_count": 4,
+                    "label": "鸟巢啤酒",
+                    "score": 4
+                },
+                {
+                    "document_count": 4,
+                    "label": "COAST",
+                    "score": 4
+                },
+                {
+                    "document_count": 4,
+                    "label": "LOST",
+                    "score": 4
+                },
+                {
+                    "document_count": 4,
+                    "label": "粉红杀手",
+                    "score": 4
+                },
+                {
+                    "document_count": 4,
+                    "label": "凯撒",
+                    "score": 4
+                },
+                {
+                    "document_count": 4,
+                    "label": "格兰多纳",
+                    "score": 4
+                },
+                {
+                    "document_count": 4,
+                    "label": "lagunitas/拉古尼塔斯",
+                    "score": 4
+                },
+                {
+                    "document_count": 4,
+                    "label": "快克",
+                    "score": 4
+                },
+                {
+                    "document_count": 4,
+                    "label": "Perrier/巴黎水",
+                    "score": 4
+                },
+                {
+                    "document_count": 4,
+                    "label": "皇家骑士",
+                    "score": 4
+                },
+                {
+                    "document_count": 4,
+                    "label": "宝华利",
+                    "score": 4
+                },
+                {
+                    "document_count": 4,
+                    "label": "SARANAC/萨拉克",
+                    "score": 4
+                },
+                {
+                    "document_count": 4,
+                    "label": "维森",
+                    "score": 4
+                },
+                {
+                    "document_count": 4,
+                    "label": "卡美里特",
+                    "score": 4
+                },
+                {
+                    "document_count": 4,
+                    "label": "力宝西打",
+                    "score": 4
+                },
+                {
+                    "document_count": 4,
+                    "label": "喜力",
+                    "score": 4
+                },
+                {
+                    "document_count": 4,
+                    "label": "健力士",
+                    "score": 4
+                },
+                {
+                    "document_count": 4,
+                    "label": "TALISKER/泰斯卡",
+                    "score": 4
+                },
+                {
+                    "document_count": 4,
+                    "label": "Chivas/芝华士",
+                    "score": 4
+                },
+                {
+                    "document_count": 4,
+                    "label": "Beam/占边",
+                    "score": 4
+                },
+                {
+                    "document_count": 4,
+                    "label": "Jim",
+                    "score": 4
+                },
+                {
+                    "document_count": 3,
+                    "label": "divide",
+                    "score": 3
+                },
+                {
+                    "document_count": 3,
+                    "label": "Great",
+                    "score": 3
+                },
+                {
+                    "document_count": 3,
+                    "label": "布雷帝国",
+                    "score": 3
+                },
+                {
+                    "document_count": 3,
+                    "label": "point/岬角",
+                    "score": 3
+                },
+                {
+                    "document_count": 3,
+                    "label": "ballast",
+                    "score": 3
+                },
+                {
+                    "document_count": 3,
+                    "label": "宝珈丽",
+                    "score": 3
+                },
+                {
+                    "document_count": 3,
+                    "label": "brewery",
+                    "score": 3
+                },
+                {
+                    "document_count": 3,
+                    "label": "coopers",
+                    "score": 3
+                },
+                {
+                    "document_count": 3,
+                    "label": "老挝啤酒",
+                    "score": 3
+                },
+                {
+                    "document_count": 3,
+                    "label": "St.Bernardus/圣伯纳",
+                    "score": 3
+                },
+                {
+                    "document_count": 3,
+                    "label": "布鲁莱迪",
+                    "score": 3
+                },
+                {
+                    "document_count": 3,
+                    "label": "saugatuck/索格塔克鬼佬",
+                    "score": 3
+                },
+                {
+                    "document_count": 3,
+                    "label": "本利亚克",
+                    "score": 3
+                },
+                {
+                    "document_count": 3,
+                    "label": "Coast",
+                    "score": 3
+                },
+                {
+                    "document_count": 3,
+                    "label": "North",
+                    "score": 3
+                },
+                {
+                    "document_count": 3,
+                    "label": "JULIO/唐.胡里奥",
+                    "score": 3
+                },
+                {
+                    "document_count": 3,
+                    "label": "DON",
+                    "score": 3
+                },
+                {
+                    "document_count": 3,
+                    "label": "EICHBAUM",
+                    "score": 3
+                },
+                {
+                    "document_count": 3,
+                    "label": "MACALLAN",
+                    "score": 3
+                },
+                {
+                    "document_count": 3,
+                    "label": "ORENDAIN/欧联达因",
+                    "score": 3
+                },
+                {
+                    "document_count": 3,
+                    "label": "慕尼黑",
+                    "score": 3
+                },
+                {
+                    "document_count": 3,
+                    "label": "chang/大象啤酒",
+                    "score": 3
+                },
+                {
+                    "document_count": 3,
+                    "label": "MOLBN",
+                    "score": 3
+                },
+                {
+                    "document_count": 3,
+                    "label": "DE",
+                    "score": 3
+                },
+                {
+                    "document_count": 3,
+                    "label": "AN'S",
+                    "score": 3
+                },
+                {
+                    "document_count": 3,
+                    "label": "PREMIUM",
+                    "score": 3
+                },
+                {
+                    "document_count": 3,
+                    "label": "BEER",
+                    "score": 3
+                },
+                {
+                    "document_count": 3,
+                    "label": "STRAWBERRY",
+                    "score": 3
+                },
+                {
+                    "document_count": 3,
+                    "label": "FRULI",
+                    "score": 3
+                },
+                {
+                    "document_count": 3,
+                    "label": "布什",
+                    "score": 3
+                },
+                {
+                    "document_count": 3,
+                    "label": "Martell/马爹利",
+                    "score": 3
+                },
+                {
+                    "document_count": 3,
+                    "label": "干露",
+                    "score": 3
+                },
+                {
+                    "document_count": 3,
+                    "label": "麦克美",
+                    "score": 3
+                },
+                {
+                    "document_count": 3,
+                    "label": "浅粉象",
+                    "score": 3
+                },
+                {
+                    "document_count": 3,
+                    "label": "dile",
+                    "score": 3
+                },
+                {
+                    "document_count": 3,
+                    "label": "斗牛犬",
+                    "score": 3
+                },
+                {
+                    "document_count": 3,
+                    "label": "星牌",
+                    "score": 3
+                },
+                {
+                    "document_count": 3,
+                    "label": "修道院",
+                    "score": 3
+                },
+                {
+                    "document_count": 3,
+                    "label": "嘉士伯",
+                    "score": 3
+                },
+                {
+                    "document_count": 3,
+                    "label": "Hennessy/轩尼诗",
+                    "score": 3
+                },
+                {
+                    "document_count": 3,
+                    "label": "Roses/四玫瑰",
+                    "score": 3
+                },
+                {
+                    "document_count": 3,
+                    "label": "Four",
+                    "score": 3
+                },
+                {
+                    "document_count": 3,
+                    "label": "Watsons/屈臣氏",
+                    "score": 3
+                },
+                {
+                    "document_count": 3,
+                    "label": "威凤凰",
+                    "score": 3
+                },
+                {
+                    "document_count": 3,
+                    "label": "LAGAVULIN/乐加维林",
+                    "score": 3
+                },
+                {
+                    "document_count": 3,
+                    "label": "麒麟",
+                    "score": 3
+                },
+                {
+                    "document_count": 3,
+                    "label": "白熊啤酒",
+                    "score": 3
+                },
+                {
+                    "document_count": 3,
+                    "label": "Hoegaarden/福佳",
+                    "score": 3
+                },
+                {
+                    "document_count": 2,
+                    "label": "风车",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "西麦尔",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "DEEMANN",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "拉格尼塔斯",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "圣佛洋",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "半月",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "岬角",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "乐喝美",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "北岸",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "Star/蓝星",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "格兰",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "falchetto/法尔凯特",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "il",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "圣伯纳",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "杜巴克娜慕尔",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "图乐",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "Shin/信",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "Glenlivet/格兰威特",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "匪徒",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "福佳白（比利时）",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "獭祭",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "MIKKELLER/美奇乐",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "AUCHENTOSHAN/欧肯特轩",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "托美亚",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "Moon/蓝月",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "BLUEGIRL/蓝妹",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "福卢克",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "Daniels/杰克丹尼",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "Jack",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "宝汀顿",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "常陆野",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "PERONI",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "斑马精酿",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "Luxardo/路萨朵",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "深粉象",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "怡泉",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "Olmeca/奥美加",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "Camino/懒虫",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "Park/高原骑士",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "Highland",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "奔富洛神山庄",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "勃艮第女公爵",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "纽卡索",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "猛士",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "Coast/迷失海岸",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "Lost",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "维多利亚",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "苏格登",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "哈瓦那俱乐部",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "杜卡特",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "Kingfisher/翠鸟",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "酩悦",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "walker/尊尼获加",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "Johnnie",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "THE",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "虎牌",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "Heineken/喜力",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "时代",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "Regal/芝华士",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "Chivas",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "MORGAN/摩根船长",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "CAPTAIN",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "野格",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "豪帅",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "Budweiser/百威",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "杰克俱乐部",
+                    "score": 2
+                },
+                {
+                    "document_count": 2,
+                    "label": "科罗娜",
+                    "score": 2
+                },
+                {
+                    "document_count": 1,
+                    "label": "SANSILVESTRO/甜月亮",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "Hora",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "Cerna",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "Pivovar",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "奔28",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "巴伐利亚牌",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "维珍",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "丹麦诱惑",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "Glenfarclas",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "格兰花格活力单一麦芽威士忌700ml",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "洋酒",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "Jura",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "of",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "Isle",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "奔128",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "格兰格拉索",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "泥煤",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "赛利斯白啤",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "科纳朗伯",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "布鲁日狂人",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "鸟巢方块Q",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "圣伯纳6号",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "加洲美女",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "cook`s库克斯",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "百人城",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "雷博士",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "杰卡斯",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "Glengoyne/格兰哥尼",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "布马",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "爱士堡",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "Tuatara",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "蓝精灵",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "普拉特山谷玉米威士忌",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "飞狗",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "CHIMAY",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "奥拉烟熏月光",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "奥拉",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "弗拉格",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "北岸加州海报",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "修士",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "加州美女",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "海豹",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "力加",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "伴月",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "bunnahabhain",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "美格娜斯",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "跳东湖",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "Goslings/高斯林",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "艾伯迪",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "Brewdog",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "MAGIC/红魔",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "RED",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "阿诗金",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "Helecine/海莱西恩修道院",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "Brau/帝王",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "Rother",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "智美督威",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "Seagrams/施格兰",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "凯歌",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "水晶骷髅头",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "日本盛",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "ABBAZIA",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "King",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "Greene",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "伦敦3号",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "珍宝特选",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "Estrella",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "奥威",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "【啤酒杯】Stone啤酒/巨石啤酒",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "黑石卡杜",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "奥妙",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "马爹金牌vsop",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "白雪",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "依云水",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "皇冠",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "白金武士",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "阿诗",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "芬兰伏特加",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "Deanston/汀斯顿",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "荷兰修道院",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "Magloire/马龙神父",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "Pere",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "企鹅",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "菊正宗",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "QIDE",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "宾德宝",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "树妖",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "啸天鼠",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "铁锚",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "剑威",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "GILBEY'S/杰彼斯",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "Gordons/哥顿",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "格林王",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "塞莱白啤",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "玛姆",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "No1/伦敦一号",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "LONDON",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "库克斯",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "金卡露",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "格兰爱琴",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "绿魔",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "杜林标",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "飘仙一号",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "Moutai/茅台",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "螺旋桨",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "STRENGTH",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "LIFE",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "布鲁塞尔",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "肯塔基",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "金馥",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "TANQUERAY/添加利",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "帝萨诺",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "隐士",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "松竹梅",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "黑雾岛",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "骷髅",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "Apimed",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "冰纯嘉士伯",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "SANPELLEGRINO/圣培露",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "巴黎之花",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "Angostura",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "冒烟的乔",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "APEROL/阿佩罗",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "GOOSE/灰雁",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "GREY",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "立陶宛",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "翰格蓝爵",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "CARTEL/卡特尔1860",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "KING",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "阿德贝哥",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "Myers/美雅士",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "Brewmeister",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "蛇毒",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "BELVEDERE/雪树",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "温莎",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "皇太子",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "猴子47",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "苏连红",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "维波罗瓦",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "森伯加",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "黑牌",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "克里尼利基",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "托里斯",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "Coca－Cola/可口可乐",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "Evian/依云",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "TEMPT",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "Oban/欧本",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "horse/白马",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "White",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "ASAHI/朝日",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "Brizard/玛丽莎",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "Marie",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "CONQUISTADOR/白金武士",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "Springbank",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "百威英博",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "海童",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "山地文",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "加力安奴",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "Harpoon/哈顿",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "Ribbon/蓝带",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "爱斯福斯冰狐",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "Bruichladdich",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "KIRIN/麒麟",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "AleSmith",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "优布劳",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "51",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "BRAZIL",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "CACHACA",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "里加黑牌",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "Pulteney",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "Old",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "香奈",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "LOCHNAGAR/皇家蓝勋",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "ROYAL",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "优鲜沛",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "柑曼怡",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "Beefeater/必富达",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "智美蓝帽",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "麦高瑞",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "勃艮第",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "CINZANO/仙山露",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "添加利",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "奔富",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "金猴",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "GROUSE/威雀",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "FAMOUS",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "DALWHINNIE/达尔维尼",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "CAMPARI/金巴利",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "尊美醇",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "Singha/胜狮",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "亦竹",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "莫斯卡托",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "TSINGTAO/青岛啤酒",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "DORADO",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "1906",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "格拉夫",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "Malibu/马利宝",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "孟买蓝宝石",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "AGAVALES/阿卡维拉斯",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "Lafite/拉菲",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "红方",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "Kahlua/甘露",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "SKYY/深蓝",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "豪帅快活",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "百利",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "cubita/古贝塔",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "Cointreau/君度",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "SMIRNOFF/斯米诺",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "哥顿金酒",
+                    "score": 1
+                },
+                {
+                    "document_count": 1,
+                    "label": "生命之水",
+                    "score": 1
+                }
+            ],
+            "score": 1315
+        }
+    ],
+    "group": [
+        {
+            "document_count": 1419,
+            "labels": [
+                {
+                    "document_count": 299,
+                    "label": "洋酒",
+                    "sub_labels": [
+                        {
+                            "document_count": 29,
+                            "label": "其他"
+                        },
+                        {
+                            "document_count": 238,
+                            "label": "威士忌",
+                            "sub_labels": [
+                                {
+                                    "document_count": 32,
+                                    "label": "伏特加"
+                                },
+                                {
+                                    "document_count": 37,
+                                    "label": "利口酒"
+                                },
+                                {
+                                    "document_count": 25,
+                                    "label": "力娇酒"
+                                },
+                                {
+                                    "document_count": 39,
+                                    "label": "威末酒"
+                                },
+                                {
+                                    "document_count": 30,
+                                    "label": "朗姆酒"
+                                },
+                                {
+                                    "document_count": 26,
+                                    "label": "白兰地"
+                                },
+                                {
+                                    "document_count": 27,
+                                    "label": "金酒"
+                                },
+                                {
+                                    "document_count": 22,
+                                    "label": "龙舌兰"
+                                }
+                            ]
+                        },
+                        {
+                            "document_count": 32,
+                            "label": "清酒/烧酒"
+                        }
+                    ]
+                },
+                {
+                    "document_count": 153,
+                    "label": "甜酒",
+                    "sub_labels": [
+                        {
+                            "document_count": 23,
+                            "label": "其他"
+                        },
+                        {
+                            "document_count": 43,
+                            "label": "冰酒"
+                        },
+                        {
+                            "document_count": 25,
+                            "label": "晚收"
+                        },
+                        {
+                            "document_count": 37,
+                            "label": "贵腐酒"
+                        },
+                        {
+                            "document_count": 25,
+                            "label": "雷司令甜白"
+                        }
+                    ]
+                },
+                {
+                    "document_count": 388,
+                    "label": "精酿",
+                    "sub_labels": [
+                        {
+                            "document_count": 18,
+                            "label": "国产精酿"
+                        },
+                        {
+                            "document_count": 370,
+                            "label": "进口精酿",
+                            "sub_labels": [
+                                {
+                                    "document_count": 25,
+                                    "label": "APA"
+                                },
+                                {
+                                    "document_count": 31,
+                                    "label": "IPA"
+                                },
+                                {
+                                    "document_count": 30,
+                                    "label": "世涛/波特"
+                                },
+                                {
+                                    "document_count": 28,
+                                    "label": "修道院"
+                                },
+                                {
+                                    "document_count": 29,
+                                    "label": "其他"
+                                },
+                                {
+                                    "document_count": 25,
+                                    "label": "小麦"
+                                },
+                                {
+                                    "document_count": 23,
+                                    "label": "戈斯"
+                                },
+                                {
+                                    "document_count": 26,
+                                    "label": "拉格"
+                                },
+                                {
+                                    "document_count": 29,
+                                    "label": "拉比克"
+                                },
+                                {
+                                    "document_count": 25,
+                                    "label": "果味"
+                                },
+                                {
+                                    "document_count": 23,
+                                    "label": "棕色艾尔"
+                                },
+                                {
+                                    "document_count": 46,
+                                    "label": "皮尔森"
+                                },
+                                {
+                                    "document_count": 30,
+                                    "label": "赛松"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "document_count": 353,
+                    "label": "葡萄酒",
+                    "sub_labels": [
+                        {
+                            "document_count": 40,
+                            "label": "其他"
+                        },
+                        {
+                            "document_count": 37,
+                            "label": "开胃酒"
+                        },
+                        {
+                            "document_count": 40,
+                            "label": "果味酒"
+                        },
+                        {
+                            "document_count": 127,
+                            "label": "白葡萄",
+                            "sub_labels": [
+                                {
+                                    "document_count": 34,
+                                    "label": "半干白"
+                                },
+                                {
+                                    "document_count": 31,
+                                    "label": "半甜红"
+                                },
+                                {
+                                    "document_count": 30,
+                                    "label": "干白"
+                                },
+                                {
+                                    "document_count": 32,
+                                    "label": "甜白"
+                                }
+                            ]
+                        },
+                        {
+                            "document_count": 74,
+                            "label": "红葡萄酒",
+                            "sub_labels": [
+                                {
+                                    "document_count": 28,
+                                    "label": "半干红"
+                                },
+                                {
+                                    "document_count": 25,
+                                    "label": "半甜半甜红"
+                                },
+                                {
+                                    "document_count": 21,
+                                    "label": "干红"
+                                }
+                            ]
+                        },
+                        {
+                            "document_count": 35,
+                            "label": "香槟"
+                        }
+                    ]
+                },
+                {
+                    "document_count": 162,
+                    "label": "酒水周边",
+                    "sub_labels": [
+                        {
+                            "document_count": 28,
+                            "label": "其他"
+                        },
+                        {
+                            "document_count": 33,
+                            "label": "啤酒框"
+                        },
+                        {
+                            "document_count": 42,
+                            "label": "开瓶器"
+                        },
+                        {
+                            "document_count": 32,
+                            "label": "杯具"
+                        },
+                        {
+                            "document_count": 27,
+                            "label": "杯垫"
+                        }
+                    ]
+                },
+                {
+                    "document_count": 64,
+                    "label": "饮料",
+                    "sub_labels": [
+                        {
+                            "document_count": 24,
+                            "label": "碳酸饮料"
+                        },
+                        {
+                            "document_count": 40,
+                            "label": "饮用水"
+                        }
+                    ]
+                }
+            ],
+            "property": "category"
+        },
+        {
+            "document_count": 1419,
+            "labels": [
+                {
+                    "document_count": 1419,
+                    "label": "启德酒水"
+                }
+            ],
+            "property": "brand"
+        }
+    ],
+    "header": {
+        "success": true
+    },
+    "resources": [
+        {
+            "Attribute": "厂名: 当酒, 厂址: 法国, 厂家联系方式: -, 配料表: 食用酒精、食糖、新鲜菜汁、焦糖色, 保质期: 3650, 食品添加剂: 无, 品牌: other/其他, 系列: 当酒力娇酒, 产地: 法国, 包装方式: 包装, 包装种类: 瓶装, 净含量: 700mL, 度数: 40%Vol.",
+            "DATE": "20171218T111635",
+            "DOCID": "e0126439e08ddfbdf4faa952dc910590",
+            "_id": 493,
+            "_rank": 0.6803391575813293,
+            "brand": "启德酒水",
+            "category": "饮料>碳酸饮料",
+            "coverImg": "//gd1.alicdn.com/imgextra/i1/832423496/TB2U1YuafAkyKJjy0FfXXaxhpXa_!!832423496.jpg_50x50.jpg",
+            "description": "力娇酒（LIQUEUR）可以称为餐后甜酒，它是以蒸馏酒为基酒配制各种调香物品，并经过甜化处理的酒精饮料。具有高度和中度的酒量，颜色娇美，气味芬芳独特，酒味甜蜜。",
+            "mallPrice": "13000.00",
+            "name": "洋酒 法国当酒力娇酒利口酒配置酒700mL DOM Benedictine法国廊酒",
+            "pid": "3506",
+            "realPrice": "13000.00",
+            "stock": "2"
+        },
+        {
+            "Attribute": "厂名: 哥顿金酒, 厂址: 英国, 厂家联系方式: 021-54881409, 配料表: 水|杜松子|大麦芽|天然食用香料, 储藏方法: 阴凉|干燥|通风|5~20°|防震, 食品添加剂: 见包装, 体积(ml): 700, 品牌: 哥顿金酒, 系列: 金酒, 酒精度数: 中度酒（38%≤A≤50%）, 适用场景: 鸡尾酒必备, 产地: 其他, 包装方式: 包装, 包装种类: 瓶装, 净含量: 700mL, 度数: 40%Vol.",
+            "DATE": "20171218T111635",
+            "DOCID": "2d95666e2649fcfc6e3af75e09f5adb9",
+            "_id": 9,
+            "_rank": 0.679987370967865,
+            "brand": "启德酒水",
+            "category": "甜酒>冰酒",
+            "coverImg": "//gd2.alicdn.com/imgextra/i3/0/TB19Y7sKVXXXXbJXXXXXXXXXXXX_!!0-item_pic.jpg_50x50.jpg",
+            "description": "哥顿金酒被誉为：基酒之王。中性酒质，无色透明，口味香气适中，适合使用作为调酒基酒，调成任何款鸡尾酒都不会影响到饮品本身的味道及色泽，并可添加香气。以金酒做出的调酒都别有风味，听闻可调出三千多款种鸡尾酒。",
+            "mallPrice": "5200.00",
+            "name": "洋酒 伦敦哥顿金酒GORDON＇S杜松子酒/琴酒/毡酒调酒基酒",
+            "pid": "3030",
+            "realPrice": "5200.00",
+            "stock": "2"
+        },
+        {
+            "Attribute": "厂名: 森伯加, 厂址: 法国, 厂家联系方式: |021-54881409, 配料表: 见背标, 储藏方法: 常温避光, 保质期: 9999, 食品添加剂: 见背标, 体积(ml): 700, 品牌: 森伯加, 系列: 开胃酒, 产地: 其他, 包装方式: 包装, 包装种类: 瓶装",
+            "DATE": "20171218T111635",
+            "DOCID": "831b1ac54cc8db480e3babac5fa2256b",
+            "_id": 302,
+            "_rank": 0.6747052073478699,
+            "brand": "启德酒水",
+            "category": "葡萄酒>红葡萄酒>半干红",
+            "coverImg": "//gd3.alicdn.com/imgextra/i3/0/TB1WpDpHFXXXXXEXVXXXXXXXXXX_!!0-item_pic.jpg_50x50.jpg",
+            "description": "酒体澄清，具有芬芳的果香和幽雅的橡木香，产品微 酸适口，浓郁丰厚，回味绵长，是宴请宾客闲暇独酌。 力娇酒实际上是一种含酒精的水果酒。它的基酒包括：白兰地、金酒、 朗姆酒、威士忌以及其它的蒸馏酒和香料；另外，还有2.5!%以上的糖浆",
+            "mallPrice": "9000.00",
+            "name": "洋酒 意大利进口森伯加开胃酒茴香白开胃酒配制酒 VACCARI  700ml",
+            "pid": "3318",
+            "realPrice": "9000.00",
+            "stock": "2"
+        },
+        {
+            "Attribute": "杯子种类: 啤酒杯, 货号: E5979, 材质: 普通玻璃, 个数: 1个",
+            "DATE": "20171218T111635",
+            "DOCID": "0afa92fc0f8a9cf051bf2961b06ac56b",
+            "_id": 123,
+            "_rank": 0.6509697437286377,
+            "brand": "启德酒水",
+            "category": "葡萄酒>红葡萄酒>半甜半甜红",
+            "coverImg": "//gd2.alicdn.com/imgextra/i1/832423496/TB2lQFQlVXXXXbCXpXXXXXXXXXX_!!832423496.jpg_50x50.jpg",
+            "description": "酒杯为特殊易碎品，本店所售酒具均不支持无理由退换。望亲谅解！",
+            "mallPrice": "3000.00",
+            "name": "【啤酒杯】BlueMoon蓝月啤酒杯 专用啤酒杯 美国原装进口",
+            "pid": "3143",
+            "realPrice": "3000.00",
+            "stock": "2"
+        },
+        {
+            "Attribute": "杯子种类: 啤酒杯, 货号: G9057, 材质: 普通玻璃, 个数: 1个",
+            "DATE": "20171218T111635",
+            "DOCID": "d2e9dd9dcd97fd12a2cb62e2bf7cbe35",
+            "_id": 1364,
+            "_rank": 0.6470392346382141,
+            "brand": "启德酒水",
+            "category": "洋酒>威士忌>利口酒",
+            "coverImg": "//gd2.alicdn.com/imgextra/i3/832423496/TB2z_5rlVXXXXbzXXXXXXXXXXXX_!!832423496.jpg_50x50.jpg",
+            "description": "酒杯为特殊易碎品，本店所售酒具均不支持无理由退换。望亲谅解！",
+            "mallPrice": "4900.00",
+            "name": "【啤酒杯】Rodenbach罗登巴赫啤酒杯 高脚啤酒杯 比利时原装进口",
+            "pid": "4381",
+            "realPrice": "4900.00",
+            "stock": "2"
+        },
+        {
+            "Attribute": "厂名: 英国添加利酒厂, 厂址: 英国, 厂家联系方式: 021-54881409, 配料表: 水|小麦|麦芽|杜松子|天然食用香料, 储藏方法: 阴凉|干燥|通风, 保质期: 3650, 食品添加剂: 见包装, 体积(ml): 700, 品牌: 添加利, 系列: 金酒, 酒精度数: 中度酒（38%≤A≤50%）, 适用场景: 团圆小酌区, 产地: 其他, 包装方式: 包装, 包装种类: 瓶装, 净含量: 700mL",
+            "DATE": "20171218T111635",
+            "DOCID": "8c9a14ffebb7677d033ffce847991293",
+            "_id": 118,
+            "_rank": 0.6455587148666382,
+            "brand": "启德酒水",
+            "category": "葡萄酒>红葡萄酒>半干红",
+            "coverImg": "//gd3.alicdn.com/imgextra/i4/0/TB1jL6tHFXXXXXpXVXXXXXXXXXX_!!0-item_pic.jpg_50x50.jpg",
+            "description": "添加利金酒是金酒种的名酿，深厚甘冽，具独特的杜松子及其他香草配料的香味，",
+            "mallPrice": "9700.00",
+            "name": "现货 洋酒 添加利金酒Tanqueray 700ml 杜松子酒 英国伦敦干金酒",
+            "pid": "3137",
+            "realPrice": "9700.00",
+            "stock": "2"
+        },
+        {
+            "Attribute": "厂名: aizhiwan, 厂址: 西班牙, 厂家联系方式: 54881409, 配料表: 水, 储藏方法: 阴凉|干燥|通风|5~20℃|防震, 食品添加剂: 水, 品牌: 莫斯卡托, 系列: 梦中的新娘白起泡葡萄酒750ml, 葡萄酒种类: 桃红葡萄酒, 葡萄酒等级: 西班牙, 西班牙产区: 其他, 口味: 甜葡萄酒（含糖量大于40克/升）, 饮酒场合: 女性之选, 产地: 西班牙, 西班牙分级: 可标示葡萄的产区, 包装方式: 包装",
+            "DATE": "20171218T111635",
+            "DOCID": "75b9b6dc7fe44437c6e0a69fd863dbab",
+            "_id": 85,
+            "_rank": 0.644034206867218,
+            "brand": "启德酒水",
+            "category": "精酿>进口精酿>小麦",
+            "coverImg": "//gd2.alicdn.com/imgextra/i3/0/TB1MQyCJXXXXXcdXXXXXXXXXXXX_!!0-item_pic.jpg_50x50.jpg",
+            "description": "起泡酒要冰一下口感更好，",
+            "mallPrice": "5900.00",
+            "name": "启德 原瓶进口 爱之湾桃红甜起泡酒气泡酒女士红酒葡萄酒莫斯卡托",
+            "pid": "3104",
+            "realPrice": "5900.00",
+            "stock": "2"
+        },
+        {
+            "Attribute": "厂名: 君度, 厂址: 法国, 厂家联系方式: 021-54881409, 配料表: 水，食用酒精，白砂糖，桔皮, 储藏方法: 常温避光, 保质期: 3650, 食品添加剂: 无, 产品名称: Cointreau/君度|力娇酒|700mL|40%Vol., 体积(ml): 700, 品牌: Cointreau/君度, 品名: 力娇酒, 酒精度数: 中度酒（38%≤A≤50%）, 适用场景: 团圆小酌区, 产地: 法国, 包装方式: 包装, 包装种类: 礼盒装, 净含量: 700mL, 度数: 40%Vol., 年份: 3年, 口味: 橙味",
+            "DATE": "20171218T111635",
+            "DOCID": "4b86ca48d90bd5f0978afa3a012503a4",
+            "_id": 15,
+            "_rank": 0.6343652606010437,
+            "brand": "启德酒水",
+            "category": "饮料>饮用水",
+            "coverImg": "//gd2.alicdn.com/imgextra/i4/832423496/TB2dSjwfqmgSKJjSspiXXXyJFXa_!!832423496.jpg_50x50.jpg",
+            "description": "君度的口感很独特，香醇而且丰富。既浓烈也温和，既清凉又温暖，有点儿苦涩的味道，苦中有有丝丝的甘甜。 君度的口感很独特，香醇而且丰富。如果你不嫌麻烦，还可以加点儿汤力水或者柠檬汽水、果汁调成鸡尾酒那样喝， 也很不错的呢。 君度力是娇酒很不错的酒！而且适合女士喝，很浪漫的酒",
+            "mallPrice": "7900.00",
+            "name": "法国原装进口 Cointreau君度橙味力娇酒配制酒700ml 鸡尾酒调酒",
+            "pid": "3036",
+            "realPrice": "7900.00",
+            "stock": "2"
+        },
+        {
+            "Attribute": "厂名: 马天尼, 厂址: 意大利, 厂家联系方式: 021-54881409, 配料表: 麦芽，啤酒花，酵母，水, 储藏方法: 常温避光, 保质期: 3650, 食品添加剂: 无, 品牌: Martini/马天尼, 系列: 起泡酒, 葡萄酒种类: 起泡酒/香槟, 葡萄酒等级: 意大利产区, 意大利产区: 其他, 口味: 半干葡萄酒（含糖量|4-12克/升）, 饮酒场合: 团圆小酌区, 产地: 意大利, 意大利分级: 保证法定产区DOCG, 包装方式: 包装",
+            "DATE": "20171218T111635",
+            "DOCID": "e945de21a1bb5714a0bc8a897ed32e9f",
+            "_id": 386,
+            "_rank": 0.6295166015625,
+            "brand": "启德酒水",
+            "category": "饮料>碳酸饮料",
+            "coverImg": "//gd4.alicdn.com/imgextra/i4/832423496/TB2zbOCbW9I.eBjy0FeXXXqwFXa_!!832423496.jpg_50x50.jpg",
+            "description": "马天尼甜气泡酒，富含蜜桃、香草等水果的芬芳，可作为餐前酒",
+            "mallPrice": "12200.00",
+            "name": "启德酒水 洋酒意大利进口 马天尼阿斯蒂气泡酒/起泡酒MARTINI Ast",
+            "pid": "3400",
+            "realPrice": "12200.00",
+            "stock": "2"
+        },
+        {
+            "Attribute": "品牌: 北岸, 杯子种类: 啤酒杯, 货号: H0611, 材质: 普通玻璃, 个数: 1个",
+            "DATE": "20171218T111635",
+            "DOCID": "2d199f9abd28ea425d262558bde5cf22",
+            "_id": 1133,
+            "_rank": 0.6257758736610413,
+            "brand": "启德酒水",
+            "category": "精酿>进口精酿>IPA",
+            "coverImg": "//gd2.alicdn.com/imgextra/i4/0/TB1JRpoKXXXXXaCXpXXXXXXXXXX_!!0-item_pic.jpg_50x50.jpg",
+            "description": "酒杯为特殊易碎品，本店所售酒具均不支持无理由退换。望亲谅解！",
+            "mallPrice": "2500.00",
+            "name": "啤酒杯 加州海豹【欲购从速】北岸啤酒杯 美国进口加州海豹酒",
+            "pid": "4149",
+            "realPrice": "2500.00",
+            "stock": "2"
+        },
+        {
+            "Attribute": "厂名: 路萨朵, 厂址: 意大利, 厂家联系方式: 0, 配料表: 水、食用酒精、柠檬, 保质期: 3650, 食品添加剂: 见背标, 品牌: Luxardo/路萨朵, 系列: 柠檬力娇酒, 产地: 意大利, 包装方式: 包装, 包装种类: 瓶装, 净含量: 700mL, 度数: 27%Vol., 口味: 柠檬",
+            "DATE": "20171218T111635",
+            "DOCID": "ac8cd1808dc30460a81cab1b0e6652fa",
+            "_id": 314,
+            "_rank": 0.6224690675735474,
+            "brand": "启德酒水",
+            "category": "葡萄酒>果味酒",
+            "coverImg": "//gd2.alicdn.com/imgextra/i2/832423496/TB2cyzPXeUkyKJjSsphXXbdaVXa_!!832423496.jpg_50x50.jpg",
+            "description": "这是一款通过酒精浸泡柠檬皮而酿制的力娇酒，是世界上Z有名的力娇酒之一，它源于一个古老的传统，从而提高了其自然的芳香和意大利南部柠檬的清新口感。",
+            "mallPrice": "7350.00",
+            "name": "洋酒 意大利进口路萨朵柠檬切罗力娇酒利口酒 Luxardo Limoncello",
+            "pid": "3329",
+            "realPrice": "7350.00",
+            "stock": "2"
+        },
+        {
+            "Attribute": "厂名: shigelan, 厂址: shigelan, 厂家联系方式: 021-54881409, 配料表: 水，大麦，玉米, 储藏方法: 阴凉|干燥|通风|5~20℃|防震, 保质期: 7200, 食品添加剂: sheegaln, 体积(ml): 750, 是否为有机食品: 否, 品牌: Seagrams/施格兰, 系列: 金酒, 酒精度数: 中度酒（38%≤A≤50%）, 适用场景: 团圆小酌区, 产地: 美国, 包装方式: 包装, 包装种类: 瓶装, 净含量: 750mL, 度数: 40%Vol.",
+            "DATE": "20171218T111635",
+            "DOCID": "f51238cd02c93b89d8fbee5667d077fc",
+            "_id": 948,
+            "_rank": 0.6151103973388672,
+            "brand": "启德酒水",
+            "category": "葡萄酒>白葡萄>甜白",
+            "coverImg": "//gd4.alicdn.com/imgextra/i4/832423496/TB2Lat3ajuhSKJjSspaXXXFgFXa_!!832423496.jpg_50x50.jpg",
+            "description": "柔和干性金酒。",
+            "mallPrice": "7500.00",
+            "name": "启德酒水 行货洋酒 Seagram's Gin 施格兰金酒 杜松子酒750ML",
+            "pid": "3963",
+            "realPrice": "7500.00",
+            "stock": "2"
+        },
+        {
+            "Attribute": "品牌: 布鲁塞尔, 杯子种类: 啤酒杯, 货号: G9057, 材质: 普通玻璃, 个数: 1个, 主图来源: 自主实拍图",
+            "DATE": "20171218T111635",
+            "DOCID": "9bdb8b1faffa4b3d41779bb495d79fb9",
+            "_id": 474,
+            "_rank": 0.611004114151001,
+            "brand": "启德酒水",
+            "category": "洋酒>威士忌>力娇酒",
+            "coverImg": "//gd1.alicdn.com/imgextra/i4/0/TB1sDM.JVXXXXcTXFXXXXXXXXXX_!!0-item_pic.jpg_50x50.jpg",
+            "description": "酒杯为特殊易碎品，本店所售酒具均不支持无理由退换。望亲谅解！",
+            "mallPrice": "2800.00",
+            "name": "【啤酒杯】 布鲁塞尔啤酒杯 磨砂 比利时进口",
+            "pid": "3529",
+            "realPrice": "2800.00",
+            "stock": "2"
+        },
+        {
+            "Attribute": "杯子种类: 啤酒杯, 货号: E5979, 材质: 普通玻璃, 个数: 1个",
+            "DATE": "20171218T111635",
+            "DOCID": "9bab7341f4429f78ade492da0318aa42",
+            "_id": 1365,
+            "_rank": 0.6052929162979126,
+            "brand": "启德酒水",
+            "category": "葡萄酒>白葡萄>干白",
+            "coverImg": "//gd1.alicdn.com/imgextra/i4/832423496/TB2sL6xlVXXXXXBXXXXXXXXXXXX_!!832423496.jpg_50x50.jpg",
+            "description": "酒杯为特殊易碎品，本店所售酒具均不支持无理由退换。望亲谅解！",
+            "mallPrice": "3500.00",
+            "name": "【啤酒杯】Karl Strauss卡尔施特劳斯平底啤酒杯 美国原装进口",
+            "pid": "4382",
+            "realPrice": "3500.00",
+            "stock": "2"
+        },
+        {
+            "Attribute": "品牌: 粉红杀手, 杯子种类: 啤酒杯, 货号: G9057, 材质: 水晶玻璃, 个数: 1个",
+            "DATE": "20171218T111635",
+            "DOCID": "977b33ace8251dd9bee913e7ba56eebc",
+            "_id": 1347,
+            "_rank": 0.6051425933837891,
+            "brand": "启德酒水",
+            "category": "精酿>进口精酿>棕色艾尔",
+            "coverImg": "//gd1.alicdn.com/imgextra/i2/0/TB1.rJJKXXXXXaLXVXXXXXXXXXX_!!0-item_pic.jpg_50x50.jpg",
+            "description": "酒杯为特殊易碎品，本店所售酒具均不支持无理由退换。望亲谅解！",
+            "mallPrice": "2900.00",
+            "name": "【啤酒杯】Pink Killer粉红杀手啤酒杯 磨砂玻璃杯",
+            "pid": "4364",
+            "realPrice": "2900.00",
+            "stock": "2"
+        },
+        {
+            "Attribute": "杯子种类: 啤酒杯, 货号: G9057, 材质: 普通玻璃, 个数: 1个",
+            "DATE": "20171218T111635",
+            "DOCID": "2b1905b5d4641830901acf76c957cfb1",
+            "_id": 1363,
+            "_rank": 0.6045419573783875,
+            "brand": "启德酒水",
+            "category": "酒水周边>其他",
+            "coverImg": "//gd3.alicdn.com/imgextra/i2/832423496/TB2dEeXlVXXXXaHXpXXXXXXXXXX_!!832423496.jpg_50x50.jpg",
+            "description": "酒杯为特殊易碎品，本店所售酒具均不支持无理由退换。望亲谅解！",
+            "mallPrice": "3500.00",
+            "name": "【啤酒杯】 白色 St-Louis圣路易啤酒专用杯 高脚啤酒杯",
+            "pid": "4380",
+            "realPrice": "3500.00",
+            "stock": "2"
+        },
+        {
+            "Attribute": "杯子种类: 啤酒杯, 货号: G9057, 材质: 普通玻璃, 个数: 1个",
+            "DATE": "20171218T111635",
+            "DOCID": "671d8d05d795091118b1344f715307c4",
+            "_id": 992,
+            "_rank": 0.6045419573783875,
+            "brand": "启德酒水",
+            "category": "酒水周边>杯垫",
+            "coverImg": "//gd2.alicdn.com/imgextra/i1/0/TB1mc0VLXXXXXb9XVXXXXXXXXXX_!!0-item_pic.jpg_50x50.jpg",
+            "description": "酒杯为特殊易碎品，本店所售酒具均不支持无理由退换。望亲谅解！",
+            "mallPrice": "3500.00",
+            "name": "啤酒杯【限量】St. Bernardus圣伯纳高脚啤酒杯 比利时原装进口",
+            "pid": "4006",
+            "realPrice": "3500.00",
+            "stock": "2"
+        },
+        {
+            "Attribute": "厂名: 凯歌, 厂址: 法国, 厂家联系方式: -, 配料表: 见背标, 保质期: 3650, 食品添加剂: 见背标, 品牌: 凯歌, 系列: 黄牌, 葡萄酒种类: 起泡酒/香槟, 葡萄酒等级: 法国产区, 法国产区: 其他, 口味: 半干葡萄酒（含糖量|4-12克/升）, 饮酒场合: 团圆小酌区, 产地: 法国, 分级: 不分级, 包装方式: 包装",
+            "DATE": "20171218T111635",
+            "DOCID": "6f611188ad4a81ffc2edab83b0705d76",
+            "_id": 947,
+            "_rank": 0.6035106182098389,
+            "brand": "启德酒水",
+            "category": "洋酒>威士忌>龙舌兰",
+            "coverImg": "//gd1.alicdn.com/imgextra/i1/832423496/TB20h_6btzJ8KJjSspkXXbF7VXa_!!832423496.jpg_50x50.jpg",
+            "description": "它大胆前卫的金黄色酒标",
+            "mallPrice": "47400.00",
+            "name": "启德 带盒 洋酒 凯歌黄牌patio法国原瓶进口 750ml起泡酒葡萄酒",
+            "pid": "3962",
+            "realPrice": "47400.00",
+            "stock": "2"
+        },
+        {
+            "Attribute": "杯子种类: 啤酒杯, 货号: E5979, 材质: 普通玻璃, 个数: 1个",
+            "DATE": "20171218T111635",
+            "DOCID": "6693a7aacb8a2e74c6f5fe91bc39864b",
+            "_id": 996,
+            "_rank": 0.6029266715049744,
+            "brand": "启德酒水",
+            "category": "葡萄酒>果味酒",
+            "coverImg": "//gd4.alicdn.com/imgextra/i3/832423496/TB2wxuZlFXXXXaaXpXXXXXXXXXX_!!832423496.jpg_50x50.jpg",
+            "description": "酒杯为特殊易碎品，本店所售酒具均不支持无理由退换。望亲谅解！",
+            "mallPrice": "2500.00",
+            "name": "【啤酒杯】Brooklyn布鲁克林平底啤酒杯 比利时原装进口 限量",
+            "pid": "4010",
+            "realPrice": "2500.00",
+            "stock": "2"
+        },
+        {
+            "Attribute": "厂名: Brown-Forman|Beveroges, 厂址: 法国, 厂家联系方式: 02154881409, 配料表: 水、白砂糖、食用酒精、天然香, 储藏方法: 常温避光, 保质期: 88888888, 食品添加剂: 见包装, 体积(ml): 500, 品牌: other/其他, 系列: 香博力娇酒利口, 产地: 法国, 包装方式: 包装, 包装种类: 瓶装",
+            "DATE": "20171218T111635",
+            "DOCID": "13d63838ef1fb6f34ca2dc6821c60e49",
+            "_id": 445,
+            "_rank": 0.5988076329231262,
+            "brand": "启德酒水",
+            "category": "葡萄酒>香槟",
+            "coverImg": "//gd4.alicdn.com/imgextra/i3/0/TB1.C6JHFXXXXcFXpXXXXXXXXXX_!!0-item_pic.jpg_50x50.jpg",
+            "description": "法国高贵的国王路易十四在他们伟大的城堡选用上等的力娇酒举行王室盛宴。沿用远古年代的传统，香博是精选丰富的树莓（小黑山莓）与其他水果和香料并混合美味的蜂蜜酿制而成的高等力娇酒。",
+            "mallPrice": "12100.00",
+            "name": "香博力娇酒利口皇家力娇酒Chambord liqueur Royale Deluxe带盒",
+            "pid": "3459",
+            "realPrice": "12100.00",
+            "stock": "2"
+        }
+    ],
+    "top_k_count": 1419,
+    "total_count": 1419
+}

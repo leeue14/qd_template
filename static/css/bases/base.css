@@ -1,0 +1,26 @@
+
+.clearfix{
+    clear: both !important;
+}
+
+
+
+.fl {
+    float: left !important;
+}
+.fr{
+    float: right !important;
+}
+
+body {
+    word-wrap: break-word;
+    font: 16px/1.5 Helvetica,Arial;
+    color: #666;
+    background: #fff;
+}
+
+a, a:hover {
+    color: #666;
+    text-decoration: none;
+}
+

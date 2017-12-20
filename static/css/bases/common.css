@@ -1,0 +1,11 @@
+.top-adv {
+    display: block;
+    height: 100px;
+    width: 100%;
+    background-image: url('../../images/top_adv.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+/*广告位哈哈只针对*/
